@@ -1,7 +1,7 @@
 # Eco-Trip-Simulation
 *Student Hackathon with Python, Streamlit and Googlemaps API.*  
 *Knowing we suppressed the GoogleMaps API key for safety reasons, you won't be able to run the entire script.*  
-*The presented scripts are not as DRY and clean as we would have liked due to the very shot time we had to code this hackathon.*
+*The presented scripts are not as DRY and clean as we would have liked due to the very short time we had to code this hackathon.*
 
 ![](Pictures/Hackathon1_Streamlit_EcoTrip.gif)
 
