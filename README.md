@@ -1,7 +1,7 @@
 # Eco-Trip-Simulation
 *Student Hackathon with Python, Streamlit and Googlemaps API*
 
-![](Pictures/Hackathon1-Streamlit-EcoTrip.gif)
+![](Pictures/Hackathon1_Streamlit_EcoTrip.gif)
 
 ## :beginner: Subject
 
